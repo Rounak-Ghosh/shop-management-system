@@ -11,7 +11,7 @@ public:
     string uname,psw;
     void match()
     {
-        cout<<"enter your user name: ";
+        cout<<"enter your   user name: ";
         cin>>uname;
         cout<<"enter your password: ";
         cin>>psw;
